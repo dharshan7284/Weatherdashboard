@@ -145,3 +145,13 @@ body {
   font-size: 1.6rem;
 }
 
+media (max-width: 778px){
+  .container{
+    width:50%;
+
+}
+    
+ }
+
+
+
